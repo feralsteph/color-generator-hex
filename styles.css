@@ -17,7 +17,7 @@ body {
   margin: 0 auto;
   background-color: #aaaaaa;
   padding: 10px;
-  width: 15%;
+  max-width: 70%;
   border-radius: 5px;
   box-shadow: 5px 5px 10px gray;
   opacity: 0.5;
