@@ -1,0 +1,24 @@
+body {
+  padding: 100px;
+  background-color: #fdfaf6;
+}
+
+#shape {
+  width: 100%;
+  height: 250px;
+  background-color: blue;
+  border-radius: 15px;
+  margin-bottom: 25px;
+  box-shadow: 5px 5px 10px gray;
+}
+
+#colorCode {
+  text-align: center;
+  margin: 0 auto;
+  background-color: #aaaaaa;
+  padding: 10px;
+  width: 15%;
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px gray;
+  opacity: 0.5;
+}
