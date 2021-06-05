@@ -2,7 +2,11 @@ body {
   padding: 100px;
   background-color: #fdfaf6;
 }
-
+footer {
+  font-family: monospace;
+  text-align: center;
+  margin-top: 300px;
+}
 #shape {
   width: 100%;
   height: 250px;
